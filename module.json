@@ -1,0 +1,28 @@
+{
+  "name": "arduinojson",
+  "version": "5.3.0",
+  "description": "An elegant and efficient JSON library for embedded systems",
+  "keywords": [
+    "json",
+    "rest",
+    "http",
+    "web"
+  ],
+  "author": "Benoit Blanchon",
+  "repository": {
+    "url": "https://github.com/bblanchon/ArduinoJson.git",
+    "type": "git"
+  },
+  "homepage": "http://blog.benoitblanchon.fr",
+  "license": "MIT",
+  "extraIncludes": [
+  "arduinojson",
+  "arduinojson/ArduinoJson",
+  "arduinojson/ArduinoJson/Internals",
+  "arduinojson/ArduinoJson/Arduino",
+  "arduinojson/ArduinoJson/Polyfills",
+  "arduinojson/ArduinoJson/TypeTraits"
+  ],
+  "dependencies": {}
+  
+}
